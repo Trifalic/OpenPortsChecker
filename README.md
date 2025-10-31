@@ -1,4 +1,4 @@
-# Open Ports Grabber
+# Open Ports Grabber Tool
 
 A simple and efficient multithreaded port scanner written in Python.
 
